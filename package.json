@@ -1,0 +1,24 @@
+{
+  "name": "inquirer-thursgal",
+  "version": "1.0.0",
+  "description": "inquirer-Thursgal",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/inquirer-Thursgal.git"
+  },
+  "author": "Bennie O'Neal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/inquirer-Thursgal/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/inquirer-Thursgal#readme"
+}
