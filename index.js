@@ -23,7 +23,8 @@ class Pizza {
       }
   }
 }
-
+console.log(chalk.bold.rgb(10, 100, 200)('Welcome to Joe\'s Crab Shack™! What kinda pizza could I get for ya?'));
+console.log(chalk.italic.rgb(100, 50, 50)('Please call us at 867-5309!'));
 let questions = [{
     name: "size",
     type: "list",
